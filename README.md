@@ -10,7 +10,7 @@ The project follows the different course modules, exploring tools and methodolog
 
 ## Team
 
-- João Pedro Santos Jorge (1231080)
+- João Jorge (1231080)
 - Tiago Caires (1260533)
 
 ---
